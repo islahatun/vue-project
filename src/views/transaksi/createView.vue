@@ -39,7 +39,7 @@
 
 <script>
 // reactive digunakan untuk data binding
-import { reactive,ref } from "vue";
+// import { reactive,ref } from "vue";
 
 export default {};
 </script>
